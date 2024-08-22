@@ -1,5 +1,8 @@
 # React + TypeScript + Vite
 
+## Experience the elegance of the Fancy Calculator, inspired by the sleek design of the iOS calculator. 
+## Check it out in action by clicking [here.](https://js-calulator-marg-code.netlify.app/)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
